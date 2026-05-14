@@ -1,0 +1,6 @@
+{
+  "name": "Resmi Gazete Takibi",
+  "description": "Günlük Resmi Gazete kararlarını, imar, ihale ve mevzuat değişikliklerini özetleyen takip aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
